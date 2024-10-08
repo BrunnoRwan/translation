@@ -48,7 +48,9 @@
     },
     "MENU": {
       "ADD_NESTED_DOCUMENT": "Adicionar Documento Aninhado",
+      "CHANGE_DOCUMENT_ICON": "Alterar Ícone do Documento",
       "CHANGE_DOCUMENT_STATUS": "Alterar Status do Documento",
+      "CHANGE_FOLDER_ICON": "Alterar Ícone da Pasta",
       "CUSTOMIZE_SPACED_REPETITION": "Personalizar a Repetição Espaçada",
       "DELETE": "Excluir",
       "EDIT_MODE": {
@@ -63,6 +65,7 @@
       },
       "MARK_AS_DOCUMENT": "Marcar como Documento",
       "MOVE": "Mover",
+      "MULTI_SELECTION_FOLDER": "Selecione Várias Pastas/Documentos",
       "MULTI_SELECTION_MODE": "Selecionar Vários Rems",
       "OPEN_IN_ANOTHER_PANE": "Abrir em Outro Painel",
       "PIN_TO_SIDEBAR": "Fixar na Barra Lateral",
@@ -527,7 +530,7 @@
     "GLOBAL_INTERFACE": {
       "COMMUNITY_DOCUMENT_SEARCH_LANGUAGE": {
         "KEYWORDS": "Idioma comunidade documentos pesquisa",
-        "TITLE": "Idioma de Pesquisa de Documentos na Comunidade"
+        "TITLE": "Idioma de Pesquisa de Flashcard Compartilhados"
       },
       "DARK_MODE": {
         "LABEL": "Use este esquema de cores.",
@@ -539,7 +542,7 @@
       },
       "INTERFACE": {
         "KEYWORDS": "idioma idioma tradução i18n",
-        "TITLE": "Idioma da interface do RemNote"
+        "TITLE": "Idioma da Interface do RemNote"
       },
       "IN_APP_SUGGESTIONS": {
         "KEYWORDS": "dicas ajuda suporte aprender tutorial",
@@ -688,6 +691,7 @@
     },
     "UPLOAD_SOURCE": {
       "EMPTY": "Arraste PDFs, documentos de Word, PPTs e <moreLink>mais</moreLink> aqui!",
+      "IMPORT_INSTEAD": "O RemNote não pode aceitar uploads de arquivos deste tipo. No entanto, podemos importar as notas ou flashcards neste arquivo! Tente escolher “Importar” no menu da conta no canto superior esquerdo.",
       "INVALID": "Formato incorreto de arquivo",
       "LABEL": "Upload de Fonte",
       "PDF": "PDF",
